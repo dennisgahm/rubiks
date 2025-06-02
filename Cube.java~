@@ -1,0 +1,21 @@
+public class Cube
+{
+    //what variables should I create?
+    Facelet[] faceFront;
+    Facelet[] faceLeft;
+        Facelet[] faceRight;
+        Facelet[] faceTop;
+        Facelet[] faceBottom;
+        Facelet[] faceBack;
+
+    //we need to create a randomized cube
+    public Cube()
+    {
+	faceFront = new Facelet[9];
+	faceLeft = new Facelet[9];
+	faceRight = new Facelet[9];
+	faceTop = new Facelet[9];
+	faceBottom = new Facelet[9];
+	faceBack = new Facelet[9];
+    }
+}

@@ -1,0 +1,2 @@
+ncftpput -R -u "dennisgahm@japanfortheworld.com" -p "!Ssmilez84" ftp://50.6.2.171/rubiks "~/Documents/code/rubiks"
+
